@@ -1,12 +1,12 @@
 # 2024_prep
 
 ### Data Structures and Algorithms:
-   * LinkedList
-   * Trees
-   * Graphs
-   * Arrays:
-   * Use Geeks for Geeks all questions
-   * Dynamic programming   
+     * LinkedList
+     * Trees
+     * Graphs
+     * Arrays:
+     * Use Geeks for Geeks all questions
+     * Dynamic programming   
 
 ### System Design Topics
     a. System Design Premier Repo revise:
