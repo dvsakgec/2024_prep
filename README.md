@@ -28,7 +28,7 @@
 
 
   ### Management
-  a. People growth: Star performer, Giving feedback, poor performer
-  b. Conflict handling: With Manager, product Manager, TL, etc.
-  c. 
+      a. People growth: Star performer, Giving feedback, poor performer
+      b. Conflict handling: With Manager, product Manager, TL, etc.
+      c. 
   
